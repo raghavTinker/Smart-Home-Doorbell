@@ -1,0 +1,12 @@
+CHAT _Ds with the bot
+
+To get the chat id run the python3 setup file and then send /start  to your bit.
+
+It will show the user details also the chat id
+
+Then just add the chat id to this file.
+
+Please note: Remove all these lines before using
+
+
+
