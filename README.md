@@ -1,7 +1,7 @@
 # Blaze HackTU
 
 To run this project:
-a)Get the Telegram Bot API Key from BotFather and place it in the setup.py file in the Hub folder and in the sendPhoto.py file.
+a)Get the Telegram Bot API Key from BotFather and place it in the setup.py file in the Hub folder and in the sendPhoto.py file.<br>
 b)Get the IBM Watson Text to speech api and put it in the setup.py file
 c)Also put in the username and password for the hub and raspberry pi
 
