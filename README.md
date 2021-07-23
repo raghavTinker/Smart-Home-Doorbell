@@ -1,10 +1,10 @@
-# Blaze HackTU
+# Smart-Home-Doorbell
 
 ## Requirements:
 ``` console
 ffmpeg
 mpg123
-telegram bot api for python
+python-telegram-bot
 sshpass
 ```
 
